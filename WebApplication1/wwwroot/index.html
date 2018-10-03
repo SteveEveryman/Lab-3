@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lab 3</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <script src="moment-with-locales.min.js"></script>
+    <script src="JScript.js"></script>
+</head>
+<body style="margin-left:10px">
+    <h1>Beverage Order</h1>
+
+    <form>
+        <div class="form-group row">
+            <label for="cusName" class="col-sm-2 col-form-label">Customer Name</label>
+            <div class="col-sm-4">
+                <input type="text" class="form-control" id="cusName" placeholder="Name">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="Beverages" class="col-xs-2">Beverage</label>
+            <div class="col-xs-2">
+                <select class="form-control" id="Beverages">
+                    <option>Coffee</option>
+                    <option>Tea</option>
+                    <option>Beer</option>
+                    <option>Wine</option>
+                </select>
+            </div>
+
+            <label for="Quantity" class="col-xs-2 col-form-label">Quantity</label>
+            <div class="col-xs-1">
+                <input type="text" class="form-control" id="Quantity" placeholder="">
+            </div>
+        </div>
+        <div class="form-group row" style="display:none;" id="Day">
+            <label for="BirthDay" class="col-sm-2 col-form-label">Birthday</label>
+            <div class="col-sm-4">
+                <input type="date" class="form-control" id="BirthDay">
+            </div>
+        </div>
+    </form>
+
+    <div class="col-sm-2">
+        <button onclick="checkout()" type="button" class="btn btn-success" id="submit">Submit Order</button>
+    </div>
+    <div class="card col-sm-2 m-3" style="display:none;" id="reciept">
+            <div class="card-body"></div>
+        </div>
+    <div class="card col-sm-3 m-3 bg-warning text-white" style="display:none;" id="alcoholWarning">
+        <div class="card-body"></div>
+    </div>
+</body>
+</html>

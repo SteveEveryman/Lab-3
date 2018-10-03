@@ -1,0 +1,56 @@
+C:\Users\clearye\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\clearye\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\clearye\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\clearye\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\clearye\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\clearye\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Eamon\Desktop\School\AppEngineering\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+\\stockton.edu\root\home\clearye\My Documents\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Eamon\Desktop\Lab3\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
